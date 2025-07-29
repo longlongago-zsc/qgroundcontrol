@@ -54,3 +54,5 @@ QGroundControl is *open-source*, meaning you have the power to shape it! Whether
 ---
 
 With QGroundControl, you're in full command of your UAV, ready to take your missions to the next level.
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/longlongago-zsc/qgroundcontrol)
